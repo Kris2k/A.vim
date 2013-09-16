@@ -838,3 +838,4 @@ function! <SID>EqualFilePaths(path1, path2)
     return a:path1 == a:path2
   endif
 endfunction
+
